@@ -1,0 +1,112 @@
+﻿@model BooksViewModel
+@{
+    ViewData["Title"] = "GetBook";
+}
+
+
+@* <main class="container my-5">
+    <div class="row">
+        <div class="col-md-4">
+            <img src="~/image/@Model.Image" alt="@Model.Title" class="img-fluid rounded shadow" />
+        </div>
+
+        <div class="col-md-8">
+            <h2>@Model.Title</h2>
+            <h5 class="text-muted">Author: @Model.AuthorName</h5>
+            <p><strong>Pages:</strong> @Model.Pages</p>
+            <p><strong>Category:</strong> @Model.CategoryName</p>
+            <div class="mt-4">
+                <a asp-action="Index" asp-controller="Books" class="btn btn-secondary me-2">Back to Books</a>
+                <a href="#" class="btn btn-primary">Borrow</a>
+            </div>
+        </div>
+    </div>
+</main> *@
+<style>
+    .content {
+        padding: 24px;
+        flex: 1;
+        overflow-y: auto
+    }
+
+    .book-detail {
+        display: flex;
+        gap: 24px;
+        flex-wrap: wrap
+    }
+
+    .book-cover {
+        flex: 1;
+        min-width: 280px;
+        max-width: 360px;
+        border-radius: 16px;
+        overflow: hidden;
+        box-shadow: 0 6px 16px rgba(15,23,42,0.06);
+        background: linear-gradient(135deg,var(--primary),#2b476a);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-size: 32px;
+        font-weight: 700;
+        height: 480px
+    }
+
+    .book-info {
+        flex: 2;
+        min-width: 280px;
+        background: var(--card);
+        padding: 24px;
+        border-radius: 16px;
+        box-shadow: 0 6px 16px rgba(15,23,42,0.06)
+    }
+
+        .book-info h2 {
+            margin-bottom: 12px;
+            font-size: 28px
+        }
+
+        .book-info p {
+            margin-bottom: 12px;
+            color: var(--muted);
+            font-size: 16px
+        }
+
+    .book-actions {
+        margin-top: 20px;
+        display: flex;
+        gap: 12px
+    }
+
+    .btn {
+        padding: 12px 20px;
+        border-radius: 12px;
+        font-weight: 700;
+        border: none;
+        cursor: pointer
+    }
+
+    .btn-borrow {
+        background: var(--accent);
+        color: #fff
+    }
+
+    .btn-back {
+        background: transparent;
+        border: 2px solid rgba(15,23,42,0.08)
+    }</style>
+<div class="content">
+    <div class="book-detail">
+        <div class="book-cover"><img src="~/image/@Model.Image" alt="@Model.Title" class="img-fluid rounded shadow" /></div>
+        <div class="book-info">
+            <h2>@Model.Title</h2>
+            <p><strong>Author:</strong> @Model.AuthorName</p>
+            <p><strong>Pages:</strong> @Model.Pages</p>
+            <p><strong>Category:</strong> @Model.CategoryName</p>
+            <div class="book-actions">
+                <a class="btn btn-borrow">Borrow</a>
+                <a asp-action="Index" asp-controller="Books" class="btn btn-back">Back to</a>
+            </div>
+        </div>
+    </div>
+</div>

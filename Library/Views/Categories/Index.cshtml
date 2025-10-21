@@ -1,0 +1,29 @@
+﻿@model List<Categories>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<main class="container1">
+    <div class="section-head">
+        <h3>Available Categories</h3>
+        <div style="color:var(--muted);font-weight:600">Showing @(Model?.Count() ?? 0) Categories</div>
+    </div>
+
+
+    <div class="grid">
+        @foreach (var item in Model)
+        {
+            <div class="card">
+                <h4>@item.Name</h4>
+                <div class="actions">
+                    <a class="small-btn borrow" asp-action="GetCategory" asp-controller="Categories" asp-route-id="@item.Id">View</a>
+                </div>
+            </div>
+        }
+    </div>
+
+
+</main>
+
+

@@ -1,0 +1,153 @@
+:root {
+  --primary: #0f172a;
+  --secondary: #facc15;
+  --bg: #f9fafb;
+  --accent: #22c55e;
+  --text: #1f2937;
+  --card: #ffffff;
+  --muted: #6b7280;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  display: flex;
+  min-height: 100vh;
+}
+a {
+
+    text-decoration: none;
+}
+
+/* SIDEBAR */
+.sidebar {
+  width: 240px;
+  background: var(--primary);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 24px 16px;
+}
+.logo {
+  font-weight: 700;
+  font-size: 22px;
+  letter-spacing: 1px;
+  color: var(--secondary);
+  margin-bottom: 28px;
+}
+.menu {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.menu a {
+  color: #e5e7eb;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 10px 14px;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+.menu a:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+.sidebar-footer {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+/* MAIN */
+.main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* TOPBAR */
+.topbar {
+  background: #fff;
+  padding: 14px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+}
+.btn-profile {
+  background: var(--accent);
+  color: #fff;
+  padding: 8px 14px;
+  border-radius: 10px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+}
+
+/* CONTENT */
+.content {
+  padding: 24px;
+  flex: 1;
+  overflow-y: auto;
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 18px;
+  margin-bottom: 24px;
+}
+.card {
+  background: var(--card);
+  padding: 18px;
+  border-radius: 14px;
+  box-shadow: 0 6px 16px rgba(15, 23, 42, 0.06);
+}
+.card h3 {
+  margin: 0 0 6px;
+  font-size: 20px;
+}
+.card p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.table-section {
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 6px 16px rgba(15, 23, 42, 0.06);
+  padding: 20px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+thead {
+  background: #f3f4f6;
+}
+th,
+td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
+th {
+  font-weight: 600;
+  color: var(--text);
+}
+td {
+  color: var(--muted);
+}
+
+/* FOOTER */
+.footer {
+  background: #fff;
+  padding: 18px 24px;
+  text-align: center;
+  font-size: 14px;
+  color: var(--muted);
+  border-top: 1px solid #e5e7eb;
+}

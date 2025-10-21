@@ -1,0 +1,31 @@
+﻿@model CategoryBooksViewModel
+
+@{
+    ViewData["Title"] = "GetCategory";
+}
+
+
+
+<main class="container1">
+    <div class="section-head">
+        <h3>Available Books</h3>
+        <div style="color:var(--muted);font-weight:600">Showing @(Model.Books?.Count() ?? 0) books</div>
+    </div>
+
+
+    <div class="grid">
+        @foreach (var item in Model.Books)
+        {
+            <div class="card">
+                <div class="thumb"><img src="~/image/@item.Image" alt="Library" style="width: -webkit-fill-available; height: -webkit-fill-available;" /></div>
+                <h4>@item.Title</h4>
+                <div class="actions">
+                    <a class="small-btn borrow">Borrow</a>
+                    <a class="small-btn view" asp-action="GetBook" asp-controller="Books" asp-route-id="@item.Id">View</a>
+                </div>
+            </div>
+        }
+    </div>
+
+
+</main>

@@ -1,0 +1,152 @@
+wwwroot\css\dashboard.css
+wwwroot\css\site.css
+wwwroot\css\style.css
+wwwroot\favicon.ico
+wwwroot\image\0916da4d-8e50-4470-b71c-da348ea1d20b.png
+wwwroot\image\0cef0d55-d2f9-475b-a14b-501493fe7a4a.jpg
+wwwroot\image\0fe3e0f9-ae14-4b52-9117-f8168f65c9b8.jpg
+wwwroot\image\1.png
+wwwroot\image\46310362-501e-479e-8fbe-02d61b2ece9d.jpg
+wwwroot\image\526ccd9f-4636-48b7-b76d-1fe17333e880.jpg
+wwwroot\image\59da84eb-a78a-42bc-8e55-fdace4d139e6.jpg
+wwwroot\image\759fbcac-3068-41ce-ae8a-b7ed979193ad.jpg
+wwwroot\image\7b6e86b9-cb2a-4fc4-b185-867b0999366a.png
+wwwroot\image\7fc8c247-7468-49c9-93a0-dd0eba5bbd0e.jpg
+wwwroot\image\82cb8a98-0e39-4f2c-a21f-0ea3667db1ad.jpg
+wwwroot\image\988921ca-a0da-405f-97b5-aea82b9af20b.png
+wwwroot\image\9945671f-4184-4cd2-a229-453a5a809a67.jpg
+wwwroot\image\b4519851-2764-4b03-a730-d8636f5ba1e2.png
+wwwroot\image\bfddd397-9369-48f5-a967-568afbe9be2e.png
+wwwroot\image\c4efb7ed-ec8b-4aa9-8aa2-d10972a77af5.png
+wwwroot\image\c66c9506-a7b9-410e-b883-5df759df0990.jpg
+wwwroot\image\e45e8761-2d4e-4d1c-bf0d-400c582b16b9.jpg
+wwwroot\image\e9e87e83-99ae-422c-9385-ef06fda1ff97.jpg
+wwwroot\image\fd1a5fd2-bb5c-4c5e-80c0-a54fb09988d4.png
+wwwroot\image\fe180732-16c2-40f7-b987-02c51055de2d.png
+wwwroot\image\libaray.jpg
+wwwroot\image\library.jpg
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\css\site.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\css\style.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\favicon.ico
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\js\site.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery-validation\LICENSE.md
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery\dist\jquery.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery\dist\jquery.min.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery\dist\jquery.min.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\lib\jquery\LICENSE.txt
+D:\Self Development\Programming\MyProject\ITI\Library\Library\wwwroot\css\dashboard.css

@@ -1,0 +1,68 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_DashBoard";
+
+}
+
+<h1>DashBoard</h1>
+<div class="content">
+    <div class="cards">
+        <div class="card">
+            <h3>
+                @Model.TotalBooks
+            </h3>
+            <p>Total Books</p>
+        </div>
+        <div class="card">
+            <h3>
+                @Model.TotalBorrowings
+            </h3>
+            <p>Borrowed Books</p>
+        </div>
+        <div class="card">
+            <h3>@Model.TotalCategories</h3>
+            <p>Categories</p>
+        </div>
+        <div class="card">
+            <h3>@Model.TotalUsers</h3>
+            <p>Users</p>
+        </div>
+    </div>
+
+    @* <div class="table-section">
+        <h3 style="margin-bottom: 12px">Recent Borrows</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Book</th>
+                    <th>User</th>
+                    <th>Date</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1984</td>
+                    <td>John Doe</td>
+                    <td>2025-09-15</td>
+                    <td>Borrowed</td>
+                </tr>
+                <tr>
+                    <td>Pride and Prejudice</td>
+                    <td>Jane Smith</td>
+                    <td>2025-09-14</td>
+                    <td>Returned</td>
+                </tr>
+                <tr>
+                    <td>The Great Gatsby</td>
+                    <td>Adam Lee</td>
+                    <td>2025-09-13</td>
+                    <td>Borrowed</td>
+                </tr>
+            </tbody>
+        </table>
+    </div> *@
+</div>
+
+
